@@ -1,0 +1,6 @@
+# Archivos .class compilados
+*.class
+
+# Carpeta de archivos compilados
+bin
+
